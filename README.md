@@ -1,4 +1,4 @@
-# Um dos primeiros projetos que fiz em ReactJS! 
+# Um dos primeiros projetos que fiz em ReactJS! Também foi usado a fw Tailwind CSS.
 
 # Usando o ReactHooks para apresentar da melhor forma as informações sobre clima e previsão do tempo em tela.
 
